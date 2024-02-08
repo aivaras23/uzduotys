@@ -180,3 +180,43 @@ function skaitmenuKiekisSkaiciuje() {
 
 skaitmenuKiekisSkaiciuje();
 
+console.clear();
+
+// ciklo for panaudojimas
+
+let sumA = 0;
+for (let i = 0; i <= 0; i++) {
+    sumA += i;
+}
+console.log(`a. suma: ${sumA}`);
+
+
+let sumB = 0;
+for (let i = 0; i <= 4; i++) {
+    sumB += i;
+}
+console.log(`b. suma: ${sumB}`);
+
+let sumC = 0;
+for (let i = 0; i <= 100; i++) {
+    sumC += i;
+}
+console.log(`c. suma: ${sumC}`);
+
+let sumD = 0;
+for (let i = 574; i <= 815; i++) {
+    sumD += i;
+}
+console.log(`d. suma: ${sumD}`);
+
+let sumE = 0;
+for (let i = -50; i <= 50; i++) {
+    sumE += i;
+}
+console.log(`e. suma: ${sumE}`);
+
+let sumF = 0;
+for (let i = -70; i <= 30; i++) {
+    sumF += i;
+}
+console.log(`f. suma: ${sumF}`);
